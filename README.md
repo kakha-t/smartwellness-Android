@@ -282,7 +282,11 @@ Bitte achte darauf:
 
 ## License
 
+Dieses Projekt wurde im Rahmen eines Hochschulprojekts erstellt.
+
 Dieses Projekt steht unter der **MIT-Lizenz** – du darfst es frei verwenden, modifizieren und verbreiten, solange der Lizenzhinweis erhalten bleibt.  
+
+Die Nutzung zu Lern-, Demonstrations- und Weiterbildungszwecken ist erlaubt. Externe Bilder, Logos und verlinkte Inhalte gehören den jeweiligen Eigentümern.
 ➡️ [MIT License Text](https://opensource.org/licenses/MIT)
 
 ---
