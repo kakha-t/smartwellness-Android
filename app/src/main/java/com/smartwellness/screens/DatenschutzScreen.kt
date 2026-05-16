@@ -79,7 +79,7 @@ fun DatenschutzScreen(navController: NavController) {
             )
             TextSection(
                 title = "5. Externe Links",
-                text = "Für externe Links sind die jeweiligen Anbieter verantwortlich. Beim Verlassen der Website gilt deren Datenschutzerklärung."
+                text = "Für externe Links sind die jeweiligen Anbieter verantwortlich. Beim Verlassen der Website gilt deren Datenschutzerklärung. Alle verwendeten Marken, Logos und Namen externer Anbieter gehören den jeweiligen Eigentümern und werden ausschließlich zu Demonstrations- und Lernzwecken im Rahmen dieses studentischen Projekts verwendet."
             )
             TextSection(
                 title = "6. Verantwortliche Stelle",
